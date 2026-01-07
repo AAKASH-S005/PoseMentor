@@ -1,0 +1,6 @@
+# requirements.txt
+PyQt5
+opencv-python
+mediapipe
+numpy
+scikit-learn
